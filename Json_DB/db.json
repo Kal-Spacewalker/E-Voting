@@ -1,0 +1,236 @@
+{
+  "blockchain": [
+    {
+      "id": 1,
+      "timestamp": "01/01/2024",
+      "VoterData": "Initail Block in the chain",
+      "previousHash": "0",
+      "hash": "6013e28a2edcbfd67b51c28059d6a0b37427907a9005842ba65ab5f43c9c6565",
+      "nonce": 0
+    },
+    {
+      "id": 1.3347115608061764,
+      "timestamp": "1711889739608",
+      "VoterData": {
+        "fromAddress": "04aec30bb7f87a6639fb50e42052dbcdd685f5849c6b29d56ebadbc8a4853ab43b1f55b5e4477ba5ee9b04621827f0b7e5b6ab66254922eb578a61e65cf8d71e2e",
+        "voterID": "PL2FF",
+        "candidateID": "RGAS23",
+        "voted": 1,
+        "authority": "MMCC",
+        "signature": "304402200e6b6164fa756caecda478bdddba9b424bcfa562c078d2e8f5095d623bd964ee02206029692e3233a9767c1c800a825546ea4c6c3c43343984c98c96a687e1dd5933"
+      },
+      "previousHash": "6013e28a2edcbfd67b51c28059d6a0b37427907a9005842ba65ab5f43c9c6565",
+      "hash": "0000e38f02a43befb470aeb123c1a1d8061ec8b5144794ada548b2e9e49c3238",
+      "nonce": 60
+    },
+    {
+      "id": 1.6977649246715725,
+      "timestamp": "1711889742587",
+      "VoterData": {
+        "fromAddress": "0462ca66a4ba382c9705f451ff3771b98c519d5016868bb9ea2c42809307710e15c12e5f49bb687ffced038e2d8b3f2ed65d123973073fc9a3a63010ba13238635",
+        "voterID": "DEE4R",
+        "candidateID": "RGAS23",
+        "voted": 1,
+        "authority": "MMCC",
+        "signature": "304402203cc970727a1aa425fe85b6a6409122c9233f233c837bf89f7a823557c8987c4102207132cec218a9cbcb089df448c32c23a1e940ed5ee518c7853e9b2f1a1d7adafc"
+      },
+      "previousHash": "0000e38f02a43befb470aeb123c1a1d8061ec8b5144794ada548b2e9e49c3238",
+      "hash": "00002bd1fe4002cc20e5f299ec7a37716da94eb3d9d179154439aecc07a79947",
+      "nonce": 128596
+    },
+    {
+      "id": 3.212709673003202,
+      "timestamp": "1711889745608",
+      "VoterData": {
+        "fromAddress": "048752c69feba5a82ba0083a71b9ecbf21f2cf0e1848784cc01f8456defadcfff58065109665ac8f62ea7188e07647afc88098d36c8cc90d9b9f095ceadecc23f4",
+        "voterID": "TYDregreg",
+        "candidateID": "FFEE88",
+        "voted": 1,
+        "authority": "MMCC",
+        "signature": "3045022100e92eb6e670ae87f61eb405eb949e06499cbdd3345443450281894db09f5f264c0220434ae1480ffe1960b4e43b1f86669705aacb17bfc32d062249063eb1f6a07464"
+      },
+      "previousHash": "00002bd1fe4002cc20e5f299ec7a37716da94eb3d9d179154439aecc07a79947",
+      "hash": "00003980fa41bfc95f7f4332c10cfe405dc1382c6091f7b6b56c7638c4fe347b",
+      "nonce": 24363
+    },
+    {
+      "id": 3.3719560845015337,
+      "timestamp": "1711889748583",
+      "VoterData": {
+        "fromAddress": "04e140e03e5779726a5de65faa282caddec65ab1c1c6c08a2154165f36b73a91ed2571abda4368a4b3c37ace728db77fca7c1f937a589b0fd881a361866253a8be",
+        "voterID": "R4FddeDF",
+        "candidateID": "DJ3df",
+        "voted": 1,
+        "authority": "MMCC",
+        "signature": "304502207e4225d39181e58316d80c99982ca0e3dacf10d5df5b0c6423aeae067bea3445022100a5bef540cda57a52122b37a76b3dde29fda16a194f3c411d17988cc64e13d378"
+      },
+      "previousHash": "00003980fa41bfc95f7f4332c10cfe405dc1382c6091f7b6b56c7638c4fe347b",
+      "hash": "0000bbfd14d2f837be6fe682f90294c3f60deebc5968e52d93ba245aba63ed90",
+      "nonce": 463
+    },
+    {
+      "id": 4.821403926055637,
+      "timestamp": "1711889796698",
+      "VoterData": {
+        "fromAddress": "04ed4feb5fc4617b59ff6f165792ec72aec262769972e69e04a6c7fc1e10b898de3e22e3df3f421394e001c8c23e11c201e79ef8d3560989d941478b975b8ce2d1",
+        "voterID": "22334",
+        "candidateID": "EERR88",
+        "voted": 1,
+        "authority": "MMDD",
+        "signature": "304502206a57da46d74911448b56f9aea323ddee3260444cb187a63a0920157f441e21f7022100a07dab4dd7c70025eb612f68c4cb9b09d61488656c94aad2f41d40574e4d2f3a"
+      },
+      "previousHash": "0000bbfd14d2f837be6fe682f90294c3f60deebc5968e52d93ba245aba63ed90",
+      "hash": "00008c8b764fc7ed55232f6677e9ca3d060c0b06226d0ce7c31d82e921eee552",
+      "nonce": 29680
+    },
+    {
+      "id": 6.699753275185762,
+      "timestamp": "1711889799677",
+      "VoterData": {
+        "fromAddress": "0449e941a4f203af57bdb6855cfc1f497c87ad43b348b45a7cc6aaff72b99ba042f5d173300acb0c747de60d575298afa3ea0ff8ced3ee64ef8860b37d90b757d9",
+        "voterID": "GDEjjR",
+        "candidateID": "EERR88",
+        "voted": 1,
+        "authority": "MMDD",
+        "signature": "3045022100852518269365b899a185efbb9d3ce238e0dff1951aad0da7d2e11fd04c30c49802204044c0f39a05103a390af1edb1f26151ea2f0e34034c0972a3201f3faa864072"
+      },
+      "previousHash": "00008c8b764fc7ed55232f6677e9ca3d060c0b06226d0ce7c31d82e921eee552",
+      "hash": "0000278ce3ff6eb666e97955cf7d7156eb88007503ee06e36370de2932327ec2",
+      "nonce": 164507
+    },
+    {
+      "id": 4.675789833467139,
+      "timestamp": "1711889802684",
+      "VoterData": {
+        "fromAddress": "04c7c306c3d2995f41b3df7b078123ffaa5c5ba75e7b98d2bc4e91cf99ed751b0065f2ad5ea5f0c7f0774d3a7ccdcc93901efd84350783bc2b4f5732684a521e95",
+        "voterID": "DDEE33",
+        "candidateID": "KKDF23",
+        "voted": 1,
+        "authority": "MMDD",
+        "signature": "304402201462adeee18b0d97bd517e001975ebaa5cf57abfb8b2ddb33ba1021924bd397d0220182fa27cb60ff6b8eb123bd4aae2a7913f688a75ded700429b7eac0f069c8853"
+      },
+      "previousHash": "0000278ce3ff6eb666e97955cf7d7156eb88007503ee06e36370de2932327ec2",
+      "hash": "000064b014b4424e0b08d07ac9f8744e9159b2b3893af2c7e22a0cebb2fee283",
+      "nonce": 75531
+    },
+    {
+      "id": 8.129087036417987,
+      "timestamp": "1711889805686",
+      "VoterData": {
+        "fromAddress": "04efa4019cdb262d233781fc2b7838d2e543f62f06613a51820385dba3a9fff5c78a498239c9106a6d52247fe21ffd85dd3a10dc7172cb268e3d6632de995f9280",
+        "voterID": "YE55RVE",
+        "candidateID": "DJ3df",
+        "voted": 1,
+        "authority": "MMDD",
+        "signature": "3044022075cb5559d9585a96e187b07186dd87e328d778c4dcfde41d6dc362cba8ccde13022060c3a504bcc538a232cacbbfc126e440d4c5299b3af7dad07809f2dce7d824da"
+      },
+      "previousHash": "000064b014b4424e0b08d07ac9f8744e9159b2b3893af2c7e22a0cebb2fee283",
+      "hash": "0000bc28005ea866d5d47dce6d2c22a3f4acbe4bc7174db81abea61547cf6bef",
+      "nonce": 11118
+    },
+    {
+      "id": 5.117128708321056,
+      "timestamp": "1711889808687",
+      "VoterData": {
+        "fromAddress": "0495f8483a9fecd16a1021bc3f31314f37a0e106c4a7c3313bd79c838f77c97f094f43fc970f6464173ce9375ae856feea6b80650c5af242b346bc487aaf14f557",
+        "voterID": "LGERFE",
+        "candidateID": "DUSG45",
+        "voted": 1,
+        "authority": "MMDD",
+        "signature": "3045022031e98d8b0fa290e397d1bd3d44448b926219ea145a849e208e6067be467b6cec022100ec72af306108f00931af227df666e58aa17441ec3a72fac8fb6b88543e2c7b2d"
+      },
+      "previousHash": "0000bc28005ea866d5d47dce6d2c22a3f4acbe4bc7174db81abea61547cf6bef",
+      "hash": "0000b784cc517bd9c4be3ae3de84d10ee27b1767ab61b52e3a8709b27b912084",
+      "nonce": 794
+    }
+  ],
+  "pendingVoting": [],
+  "minners": [
+    {
+      "minnerID": "MMDD",
+      "minnerData": [
+        {
+          "fromAddress": "04ed4feb5fc4617b59ff6f165792ec72aec262769972e69e04a6c7fc1e10b898de3e22e3df3f421394e001c8c23e11c201e79ef8d3560989d941478b975b8ce2d1",
+          "voterID": "22334",
+          "candidateID": "EERR88",
+          "voted": 1,
+          "authority": "MMDD",
+          "signature": "304502206a57da46d74911448b56f9aea323ddee3260444cb187a63a0920157f441e21f7022100a07dab4dd7c70025eb612f68c4cb9b09d61488656c94aad2f41d40574e4d2f3a"
+        },
+        {
+          "fromAddress": "0449e941a4f203af57bdb6855cfc1f497c87ad43b348b45a7cc6aaff72b99ba042f5d173300acb0c747de60d575298afa3ea0ff8ced3ee64ef8860b37d90b757d9",
+          "voterID": "GDEjjR",
+          "candidateID": "EERR88",
+          "voted": 1,
+          "authority": "MMDD",
+          "signature": "3045022100852518269365b899a185efbb9d3ce238e0dff1951aad0da7d2e11fd04c30c49802204044c0f39a05103a390af1edb1f26151ea2f0e34034c0972a3201f3faa864072"
+        },
+        {
+          "fromAddress": "04c7c306c3d2995f41b3df7b078123ffaa5c5ba75e7b98d2bc4e91cf99ed751b0065f2ad5ea5f0c7f0774d3a7ccdcc93901efd84350783bc2b4f5732684a521e95",
+          "voterID": "DDEE33",
+          "candidateID": "KKDF23",
+          "voted": 1,
+          "authority": "MMDD",
+          "signature": "304402201462adeee18b0d97bd517e001975ebaa5cf57abfb8b2ddb33ba1021924bd397d0220182fa27cb60ff6b8eb123bd4aae2a7913f688a75ded700429b7eac0f069c8853"
+        },
+        {
+          "fromAddress": "04efa4019cdb262d233781fc2b7838d2e543f62f06613a51820385dba3a9fff5c78a498239c9106a6d52247fe21ffd85dd3a10dc7172cb268e3d6632de995f9280",
+          "voterID": "YE55RVE",
+          "candidateID": "DJ3df",
+          "voted": 1,
+          "authority": "MMDD",
+          "signature": "3044022075cb5559d9585a96e187b07186dd87e328d778c4dcfde41d6dc362cba8ccde13022060c3a504bcc538a232cacbbfc126e440d4c5299b3af7dad07809f2dce7d824da"
+        },
+        {
+          "fromAddress": "0495f8483a9fecd16a1021bc3f31314f37a0e106c4a7c3313bd79c838f77c97f094f43fc970f6464173ce9375ae856feea6b80650c5af242b346bc487aaf14f557",
+          "voterID": "LGERFE",
+          "candidateID": "DUSG45",
+          "voted": 1,
+          "authority": "MMDD",
+          "signature": "3045022031e98d8b0fa290e397d1bd3d44448b926219ea145a849e208e6067be467b6cec022100ec72af306108f00931af227df666e58aa17441ec3a72fac8fb6b88543e2c7b2d"
+        }
+      ],
+      "credits": 5,
+      "id": 1
+    },
+    {
+      "minnerID": "MMCC",
+      "minnerData": [
+        {
+          "fromAddress": "04aec30bb7f87a6639fb50e42052dbcdd685f5849c6b29d56ebadbc8a4853ab43b1f55b5e4477ba5ee9b04621827f0b7e5b6ab66254922eb578a61e65cf8d71e2e",
+          "voterID": "PL2FF",
+          "candidateID": "RGAS23",
+          "voted": 1,
+          "authority": "MMCC",
+          "signature": "304402200e6b6164fa756caecda478bdddba9b424bcfa562c078d2e8f5095d623bd964ee02206029692e3233a9767c1c800a825546ea4c6c3c43343984c98c96a687e1dd5933"
+        },
+        {
+          "fromAddress": "0462ca66a4ba382c9705f451ff3771b98c519d5016868bb9ea2c42809307710e15c12e5f49bb687ffced038e2d8b3f2ed65d123973073fc9a3a63010ba13238635",
+          "voterID": "DEE4R",
+          "candidateID": "RGAS23",
+          "voted": 1,
+          "authority": "MMCC",
+          "signature": "304402203cc970727a1aa425fe85b6a6409122c9233f233c837bf89f7a823557c8987c4102207132cec218a9cbcb089df448c32c23a1e940ed5ee518c7853e9b2f1a1d7adafc"
+        },
+        {
+          "fromAddress": "048752c69feba5a82ba0083a71b9ecbf21f2cf0e1848784cc01f8456defadcfff58065109665ac8f62ea7188e07647afc88098d36c8cc90d9b9f095ceadecc23f4",
+          "voterID": "TYDregreg",
+          "candidateID": "FFEE88",
+          "voted": 1,
+          "authority": "MMCC",
+          "signature": "3045022100e92eb6e670ae87f61eb405eb949e06499cbdd3345443450281894db09f5f264c0220434ae1480ffe1960b4e43b1f86669705aacb17bfc32d062249063eb1f6a07464"
+        },
+        {
+          "fromAddress": "04e140e03e5779726a5de65faa282caddec65ab1c1c6c08a2154165f36b73a91ed2571abda4368a4b3c37ace728db77fca7c1f937a589b0fd881a361866253a8be",
+          "voterID": "R4FddeDF",
+          "candidateID": "DJ3df",
+          "voted": 1,
+          "authority": "MMCC",
+          "signature": "304502207e4225d39181e58316d80c99982ca0e3dacf10d5df5b0c6423aeae067bea3445022100a5bef540cda57a52122b37a76b3dde29fda16a194f3c411d17988cc64e13d378"
+        }
+      ],
+      "credits": 4,
+      "id": 2
+    }
+  ]
+}
